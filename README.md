@@ -7,7 +7,8 @@ This is a base template to get started with networking related projects
   ./server
   ./client localhost
 
-  2 Way communication is enabled .
+  two Way communication is enabled .
+  
 2. ##UDP Protocol
     gcc listener.c -o l
     gcc talker.c -o t
